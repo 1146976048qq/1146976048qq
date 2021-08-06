@@ -17,6 +17,17 @@
   <a href="https://twitter.com"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
   <a href="https://youtube.com"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
 </p>
+
+<p align="left">
+  <a href="#"><img alt="Arknights - Phos#3548" title="Arknights - Phos#3548" height="32" width="32" src="assets/arknights.svg"></a>
+  <a href="#"><img alt="Destiny 2 - Phos" title="Destiny 2 - Phos" height="32" width="32" src="assets/destiny.svg"></a>
+  <a href="#"><img alt="Epic Games - PeterTheHan" title="Epic Games - PeterTheHan" height="32" width="32" src="assets/epicgames.svg"></a>
+  <a href="#"><img alt="PlayStation - PeterTheHan" title="PlayStation - PeterTheHan" height="32" width="32" src="assets/playstation.svg"></a>
+  <a href="https://stadia.com/profile/1536559313706186034"><img alt="Stadia - Phos" height="32" width="32" src="assets/stadia.svg"></a>
+  <a href="https://steamcommunity.com/id/peterthehan"><img alt="Steam" height="32" width="32" src="assets/steam.svg"></a>
+  <a href="#"><img alt="Warframe - Sumia" title="Warframe - Sumia" height="32" width="32" src="assets/warframe.svg"></a>
+</p>
+
 <!--
 **1146976048qq/1146976048qq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
