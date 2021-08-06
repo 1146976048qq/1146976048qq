@@ -15,7 +15,7 @@
   <a href="https://twitch.tv"><img alt="Twitch" height="32" width="32" src="assets/twitch.svg"></a>
   <a href="https://twitter.com"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
   <a href="https://youtube.com"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
-  <a href="https://venmo.com"><img alt="Venmo" height="32" width="32" src="assets/venmo.svg"></a>
+<!--   <a href="https://venmo.com"><img alt="Venmo" height="32" width="32" src="assets/venmo.svg"></a> -->
 </p>
 
 <p align="left">
