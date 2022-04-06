@@ -54,8 +54,12 @@ Here are some ideas to get you started:
 🌱 I’m currently learning at _BDAA, USTC._ <br>
 👯 I’m looking to collaborate with _NLP & RS._ <br>
 🤔 I’m looking for some _Job Opportunities (University or Company)._ <br>
+📫 How to reach me: 1) Emails / 2) Wechat (kkzhang0808) <br>
+😄 Please do not hesitate to reach out to me if you have any opportunities or collaborations! <br>
 <!-- 💬 Ask me about ... <br>
 📫 How to reach me: ... <br>
-😄 Pronouns: ... <br>
+ Pronouns: ... <br>
 ⚡ Fun fact: ... <br> -->
 
+<!-- If I can be of assistance, please do not hesitate to contact me! -->
+<!-- If you require any further information, feel free to contact me -->
