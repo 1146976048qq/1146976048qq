@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 🔭 I’m currently pursuing _my Ph.D._ <br>
 🌱 I’m currently learning at _BDAA, USTC._ <br>
 👯 I’m looking to collaborate with _NLP & RS._ <br>
-🤔 I’m looking for some _Job Opportunities (University or Company)._ <br>
+<!-- 🤔 I’m looking for some _Job Opportunities (University or Company)._ <br> -->
+🤔 I’m looking for some _Job Opportunities (Academia or Industry)._ <br>
 📫 How to reach me: 1) Emails or 2) Wechat (kkzhang0808) <br>
 😄 Please do not hesitate to reach out to me if you have any opportunities or collaborations! ⚡⚡⚡<br>
 <!-- 💬 Ask me about ... <br>
