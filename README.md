@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <!-- 🤔 I’m looking for some _Job Opportunities (University or Company)._ <br> -->
 🤔 I’m looking for some Job Opportunities (Academia or Industry). <br> 
 💬 If you are interested in me, please do not hesitate to contact me via 💬 Email or 💬 Wechat. <br>
-📫 How to reach me: 1) Email (kkzhang0808@mail.ustc.edu.cn) or 2) Wechat (ID: kkzhang0808) <br>
+📫 How to reach me: 1) Email (kkzhang0808@mail.ustc.edu.cn) or 2) Wechat (ID: kkzhang0808). <br>
 
 
 <!-- 💬 Ask me about ... <br>
