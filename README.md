@@ -1,4 +1,4 @@
-### Hi there 👋   I‘m Kevin 💬 
+### Hi there 👋 &nbsp; &nbsp; I'm Kevin 
 
 <p align="left">
   <a href="https://github.com/1146976048qq"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
@@ -50,13 +50,14 @@ Here are some ideas to get you started:
 
 <!-- Here are some ideas to get you started: -->
 
+<!-- 
 🔭 I’m currently pursuing _my Ph.D._ <br>
 🌱 I’m currently learning at _BDAA, USTC._ <br>
 👯 I’m looking to collaborate with _NLP & RS._ <br>
-<!-- 🤔 I’m looking for some _Job Opportunities (University or Company)._ <br> -->
 🤔 I’m looking for some Job Opportunities (Academia or Industry). <br> 
 💬 If you are interested in me, please do not hesitate to contact me via 💬 Email or 💬 Wechat. <br>
-📫 How to reach me: 1) Email (kkzhang0808@mail.ustc.edu.cn) or 2) Wechat (ID: kkzhang0808). <br>
+📫 How to reach me: 1) Email (kkzhang0808@mail.ustc.edu.cn) or 2) Wechat (ID: kkzhang0808). <br> 
+-->
 
 
 <!-- 💬 Ask me about ... <br>
